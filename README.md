@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  Full Stack Web-Developer<br>👯 I’m looking to collaborate on front-end related content creation<br>🌱 I’m currently learning web developing<br>💬 Ask me about web developing<br>⚡ Fun fact - I am lazy but smart
+🔭 I’m currently trainee at Sharpener Tech on Full Stack Developer<br>👯 I’m looking to collaborate on front-end related content creation<br>🌱 I’m currently learning web developing<br>💬 Ask me about web developing<br>⚡ Fun fact - I am lazy but smart
 
 
 ## 🌐 Socials:
